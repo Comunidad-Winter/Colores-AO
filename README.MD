@@ -4,7 +4,7 @@ Herramienta para configurar los colores RGB de los textos en Argentum Online. Es
 
 ## Capturas
 
-https://i.imgur.com/XvDmL5l.jpeg
+![captura](https://i.imgur.com/XvDmL5l.jpeg)
 
 ## Analaisis de Virus Total:
 
